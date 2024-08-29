@@ -1,0 +1,24 @@
+{
+  "name": "aiAgent-f",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dompurify": "^3.1.6",
+    "marked": "^14.0.0",
+    "mermaid": "^10.9.1",
+    "mind-elixir": "^4.0.5",
+    "pinia": "^2.2.1",
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
