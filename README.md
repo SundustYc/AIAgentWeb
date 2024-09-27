@@ -61,8 +61,7 @@ AIAgentWeb是本人在某企的大数据与人工智能实验室实习期间开�
 - DOMPurify：HTML 内容清理和保护库
 - Marked：Markdown 转 HTML 解析器
 - Mermaid：图表和流程图生成库
-- [mind-elixir-core
-](https://github.com/ssshooter/mind-elixir-core)：开源的 JavaScript 思维导图框架，支持动态编辑等功能。
+- [mind-elixir-core](https://github.com/ssshooter/mind-elixir-core)：开源的 JavaScript 思维导图框架，支持动态编辑等功能。
 
 ### 后端 (aiAgent-b)
 
